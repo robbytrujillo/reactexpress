@@ -15,3 +15,5 @@ let gender1 = "Laki-laki";
 
 console.log(`${name1} memiliki jenis kelamin : ${gender1}`);
 // output "Robby Ilhamkusuma memiliki jensis kelamin : Laki-laki"
+
+// menjalankan dengan "node templateStringAndLiteral"
