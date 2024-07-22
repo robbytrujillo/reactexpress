@@ -4,7 +4,7 @@ let name = "Robby Ilhamkusuma";
 
 let gender = "Laki-laki";
 
-console.log(name + "memiliki jenis kelamin : " + gender);
+console.log(name + " memiliki jenis kelamin : " + gender);
 // output "Robby Ilhamkusuma memiliki jensis kelamin : Laki-laki"
 
 // jika menuliskannya menggunakan template string
